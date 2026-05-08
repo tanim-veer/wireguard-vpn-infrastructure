@@ -19,6 +19,26 @@ This project demonstrates the implementation of a secure VPN architecture with a
 
 ---
 
+# Screenshots
+FastAPI Backend Running
+<img width="768" height="287" alt="image" src="https://github.com/user-attachments/assets/fc24482d-c4ca-422b-8044-6f9276df1eb1" />
+[terminal VSCode avec uvicorn main:app --reload]
+
+VPN Configuration Generation
+<img width="639" height="393" alt="image" src="https://github.com/user-attachments/assets/2c08b377-7529-4adc-b881-c9deeed9fbb1" />
+
+WireGuard Windows Client Connected
+<img width="980" height="771" alt="image" src="https://github.com/user-attachments/assets/c942a6c0-501a-40c4-9b6a-d51535bb2692" />
+[WireGuard activé dans Windows]
+
+Successful WireGuard Handshake
+<img width="556" height="153" alt="image" src="https://github.com/user-attachments/assets/e11c99b7-7143-4456-a034-e21e62b35e8c" />
+[résultat de sudo wg avec latest handshake]
+
+Project Structure
+<img width="189" height="299" alt="image" src="https://github.com/user-attachments/assets/e74f8571-4feb-4097-9603-e0b3e018a248" />
+[structure du projet dans VSCode]
+
 # Technologies Used
 
 | Technology         | Purpose                        |
